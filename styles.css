@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+
+.KUVA	{float: center;
+}
+
+.AHVEN {float:left ;
+}
+
+.HAUKI   {float:left ;
+clear: both;
+}
+
+.RAUTU   {float:left;
+clear: both;
+}
+
+h3 { color: #FFE4C4;
+}
+
+h1 { color: #DEB887;
+}
